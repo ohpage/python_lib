@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
   name='ojm_lib',
   version='0.0.1',
-  url='https://github.com/ohpage/python_lib',
+  url='https://github.com/ohpage/python_lib.git',
   author='Jongmin Oh',
   author_email='rocket@nate.com',
   license='jongmin',
